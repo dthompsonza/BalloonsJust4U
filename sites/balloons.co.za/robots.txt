@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /_google/
+Disallow: /_inc/
+Disallow: /Images/
+
+Sitemap: http://www.balloonsjust4u.co.za/sitemap.xml

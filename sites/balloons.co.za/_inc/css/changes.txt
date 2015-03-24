@@ -1,0 +1,10 @@
+The following colours have been changed in bootstrap
+
+#1A242F -> #473E93
+
+#2C3E50 -> #105FA9
+
+
+Freelancer
+
+#
