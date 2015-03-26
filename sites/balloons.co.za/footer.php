@@ -32,8 +32,12 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Contact</h3>
-                        <p><a href="mailto:balloonsj4u@icon.co.za" class="white-text">balloonsj4u@icon.co.za</a> <br/>
-                           031 573 1126 / 079 390 3838
+                        <p>
+                            <a href="mailto:balloonsj4u@icon.co.za" class="white-text">balloonsj4u@icon.co.za</a> <br/>
+                            031 573 1126 / 079 390 3838 <br/>
+                            Mon – Fri 8am to 5pm <br/>
+                            Sat 8am to 4pm <br/>
+                            Sun 8am to 10am <br/>
                         </p>
                     </div>
                 </div>
@@ -59,25 +63,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h4>Established 1987 - 'Balloons are our Business'</h4>
-                        <!-- Start of StatCounter Code for Default Guide -->
-                        <script type="text/javascript">
-                        var sc_project=10145204; 
-                        var sc_invisible=0; 
-                        var sc_security="e046418a"; 
-                        var scJsHost = (("https:" == document.location.protocol) ?
-                        "https://secure." : "http://www.");
-                        document.write("<sc"+"ript type='text/javascript' src='" +
-                        scJsHost+
-                        "statcounter.com/counter/counter.js'></"+"script>");
-                        </script>
-                        <noscript><div class="statcounter"><a title="web counter"
-                        href="http://statcounter.com/free-hit-counter/"
-                        target="_blank"><img class="statcounter"
-                        src="http://c.statcounter.com/10145204/0/e046418a/0/"
-                        alt="web counter"></a></div></noscript>
-                        <!-- End of StatCounter Code for Default Guide -->
-                        <a href="http://statcounter.com/p10145204/?guest=1">View My
-                        Stats</a>
+
                     </div>
                 </div>
             </div>

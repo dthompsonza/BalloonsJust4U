@@ -47,11 +47,8 @@
     <link href="/_inc/css/freelancer.css" rel="stylesheet">
     <link href="/_inc/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="/_inc/css/ribbon.css" rel="stylesheet">
-
     <link href="/style.css" rel="stylesheet">
-
     <?php include(dirname(__FILE__).'/_google/analytics.php'); ?>
-
     <link rel="shortcut icon" href="/_inc/icons/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="/_inc/icons/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/_inc/icons/apple-touch-icon-114x114.png">
