@@ -13,8 +13,13 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p style="white-space:nowrap;">67 Northway (Entrance off Romsey Grove)
-                            <br>Durban North, 4051</p>
+                        <p style="white-space:nowrap;">
+                            'Villa Coco'<br/>
+                            High Ridge Rd (opp 199 High Ridge Rd)
+                            <br/>Durban North
+                            <br/>4051
+                            <br/>
+                            </p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
@@ -37,7 +42,7 @@
                             031 573 1126 / 079 390 3838 <br/>
                             Mon – Fri 8am to 5pm <br/>
                             Sat 8am to 4pm <br/>
-                            Sun 8am to 10am <br/>
+                            Sun 8am to 10am (by appointment only) <br/>
                         </p>
                     </div>
                 </div>
@@ -52,7 +57,7 @@
                 <div id="gmap_canvas" style="height:350px;width:100%;"></div>
                 <style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://www.pureblack.de" id="get-map-data">www.pureblack.de</a>
             </div>
-            <script type="text/javascript"> function init_map(){var myOptions = {draggable: false,zoom:15,center:new google.maps.LatLng(-29.797776,31.03044),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-29.797776, 31.03044)});infowindow = new google.maps.InfoWindow({content:"<b>Balloons Just 4 U</b><br/>67 Northway, Durban North<br/> Durban" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);</script>
+            <script type="text/javascript"> function init_map(){var myOptions = {draggable: false,zoom:15,center:new google.maps.LatLng(-29.8013567,31.0295294),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-29.8013567,31.0295294)});infowindow = new google.maps.InfoWindow({content:"<b>Balloons Just 4 U</b><br/>'Villa Coco'<br/>High Ridge Rd (opp 199 High Ridge Rd)<br/> Durban North<br/> Durban" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);</script>
         </div>
         <?php 
             }
