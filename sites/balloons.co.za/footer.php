@@ -40,7 +40,7 @@
                         <p>
                             <a href="mailto:balloonsj4u@icon.co.za" class="white-text">balloonsj4u@icon.co.za</a> <br/>
                             031 573 1126 / 079 390 3838 <br/>
-                            Mon – Fri 8am to 5pm <br/>
+                            Mon – Fri 8am to 2pm <br/>
                             Sat 8am to 2pm <br/>
                             Sun 8am to 10am (by appointment only) <br/>
                         </p>
