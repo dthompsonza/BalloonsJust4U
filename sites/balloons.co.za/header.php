@@ -13,7 +13,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <meta name="author" content="David Thompson & Balloons Just 4 U">
+    <meta name="author" content="David Thompson">
     <?php 
         if (isset($pageKeywords))
         {

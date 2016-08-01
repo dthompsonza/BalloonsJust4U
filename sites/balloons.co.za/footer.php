@@ -26,9 +26,9 @@
                         <ul class="list-inline">
                             <li><a href="https://www.facebook.com/balloonsjust4u.co.za/" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
+                            <!--
                             <li><a href="http://www.pinterest.com/balloonsj4u/" class="btn-social btn-outline"><i class="fa fa-fw fa-pinterest"></i></a>
                             </li>
-                            <!--
                             <li><a href="http://www.twitter.com/BalloonsJust4U" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
                             </li>
                             <li><a href="http://www.linkedin.com/BalloonsJust4U" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
