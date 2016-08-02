@@ -6,11 +6,12 @@
             <div>
                 
 
-                    <p><strong>Balloon decorating is our speciality!</strong></p>
-                    <p>Using balloons for decoration can create a FANTASTIC impact on promotions, corporate functions, banquets, weddings, sporting events as well as parties.</p>
-                    <p>We can create arches, columns, fans, table decorations, ceiling balloons and many more concepts at your venue &#8211; both indoors or outdoors!</p>
-                    <p>Our list of satisfied clients extends from happy mums and dads through to the major corporates and brands nationwide.</p>
-                    <p>Below are some examples of our work&#8230;</p>
+                    <p><strong>Balloon decorating is our speciality! </strong></p>
+
+                    <p>Balloon decoration can create a BRILLIANT impact on promotions, activations, launches, corporate functions, banquets, weddings, sporting events and any kind of party!! </p>
+                    <p>We can create arches, columns, table d&#233;cor, ceiling balloons and many more concepts at your venue &#8211; both indoors + outdoors! </p>
+                    <p>Our list of satisfied clients extends from major corporates and brands nationwide to happy mums and dads (and kids!).  </p>
+                    <p>Some examples of our work or to help you with ideas for your function: </p>
                     <p>&nbsp;</p>
 
                     <table style="width: 100%;" cellpadding="0" cellspacing="0" border="0">
@@ -79,9 +80,9 @@
                                 <img class="img-responsive flcenter" src="/Images/Decorating/e3.jpg" alt="Giant Balloons" width="300" height="225" />
                                 <p class="wp-caption-text">Giant Balloons</p>
                             </td>
-                            <td class="text-left">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/f1.jpg" alt="Helium Balloon Suspended Drapes" width="300" height="225" />
-                                <p class="wp-caption-text">Suspended Drapes</p>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/funky_trees.jpg" alt="Funky Trees" width="300" height="225" />
+                                <p class="wp-caption-text">Funky Trees</p>
                             </td>
                         </tr>   
                         <tr>
@@ -103,13 +104,13 @@
                                 <img class="img-responsive flcenter" src="/Images/Decorating/h1.jpg" alt="Balloon Cloud" width="300" height="225" />
                                 <p class="wp-caption-text">Balloon Clouds</p>
                             </td>
-                            <td class="text-center">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/f2.jpg" alt="Balloon Wall" width="300" height="225" />
-                                <p class="wp-caption-text">Balloon Wall</p>
+                            <td class="text-right">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/flowers_with_base.jpg" alt="Flowers With Base" width="300" height="225" />
+                                <p class="wp-caption-text">Flower Arrangement</p>
                             </td>
                             <td class="text-left">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/d2.jpg" alt="Flower Arrangement" width="300" height="225" />
-                                <p class="wp-caption-text">Flower Arrangement</p>
+                                <img class="img-responsive flcenter" src="/Images/Decorating/flower_floating.jpg" alt="Floating Flower" width="300" height="225" />
+                                <p class="wp-caption-text">Floating Flower</p>
                             </td>
                         </tr>   
                         <tr>
@@ -126,6 +127,50 @@
                                 <p class="wp-caption-text">Pool Balloons</p>
                             </td>
                         </tr>   
+
+                        <tr>
+                            <td class="text-right">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/arch_aisle.jpg" alt="Arch Aisle" width="300" height="225" />
+                                <p class="wp-caption-text">Arch Aisle</p>
+                            </td>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/arch_double.jpg" alt="Double/Single Arch" width="300" height="225" />
+                                <p class="wp-caption-text">Double & Single Arches</p>
+                            </td>
+                            <td class="text-left">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/columns_horizontal.jpg" alt="Horizontal Columns" width="300" height="225" />
+                                <p class="wp-caption-text">Horizontal Columns</p>
+                            </td>
+                        </tr>   
+                        <tr>
+                            <td class="text-right">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/draping_1.jpg" alt="Balloon Draping 1" width="300" height="225" />
+                                <p class="wp-caption-text">Balloon Draping 1</p>
+                            </td>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/draping_2.jpg" alt="Balloon Draping 2" width="300" height="225" />
+                                <p class="wp-caption-text">Balloon Draping 2</p>
+                            </td>
+                            <td class="text-left">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/tree_1.jpg" alt="Balloon Tree" width="300" height="225" />
+                                <p class="wp-caption-text">Balloon Tree</p>
+                            </td>
+                        </tr>   
+                        <tr>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/number_80.jpg" alt="Number '80'" width="300" height="225" />
+                                <p class="wp-caption-text">Number '80'</p>
+                            </td>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/heart_shape.jpg" alt="Heart Shape" width="300" height="225" />
+                                <p class="wp-caption-text">Heart Shape</p>
+                            </td>
+                            <td class="text-left">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/lollipops_1.jpg" alt="Lollipops" width="300" height="225" />
+                                <p class="wp-caption-text">Lollipops</p>
+                            </td>
+                        </tr>   
+                        
 
                     </table>
 

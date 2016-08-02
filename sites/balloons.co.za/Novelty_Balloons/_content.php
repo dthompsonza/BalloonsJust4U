@@ -11,7 +11,7 @@
                     <table class="text-center" sxtyle="width: 100%; background-color: #aaaa00;" cellpadding="0" cellspacing="0" border="0">
                         <tr>
                             <td class="text-right">
-                                <img src="/Images/Novelty/allround.jpg" class="img-responsive" />
+                                <img src="/Images/Novelty/allround2.jpg" class="img-responsive" />
                                 <p class="wp-caption-text">All-rounded print</p>
                             </td>
                             <td>&nbsp;&nbsp;&nbsp;</td>
@@ -28,7 +28,7 @@
                <br/>
 
                 <center>
-                    <p><b>​Available prints in 1-4 sides or all-rounded print</b></p>
+                    <p><b>​Examples of available prints on 1-4 sides of a balloon</b></p>
                     
                     <table class="text-center" sxtyle="width: 100%; background-color: #aaaa00;" cellpadding="0" cellspacing="0" border="0">
                         <tr>
@@ -77,8 +77,7 @@
                 <p><strong>Shaped Balloons</strong></p>
 
                 <center>
-                    
-
+                
                     <table style="width: 100%;" cellpadding="0" cellspacing="0" border="0">
                         <tr>
                             <td>
@@ -101,6 +100,37 @@
                             </td>
                         </tr>
                     </table>
+
+                </center>
+
+
+                <p>&nbsp;</p>
+
+                <p><b>Foil Numbers and Letters</b></p>
+                <p>
+                    We stock foil numbers in gold and silver, and letters in silver only.  
+                    Subject to availability. 
+                </p>
+
+                <center>
+                
+                    <table style="width: 100%;" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td>
+                                <center>
+                                    <img src="/Images/Novelty/foil_num.jpg" class="img-responsive"/>
+                                    <p class="wp-caption-text">Gold & Silver Numbers</p>
+                                </center>
+                            </td>
+                            <td>
+                                <center>
+                                    <img src="/Images/Novelty/foil_let.jpg" class="img-responsive"/>
+                                    <p class="wp-caption-text">Silver Letters Only</p>
+                                </center>
+                            </td>
+                        </tr>
+                    </table>
+
                 </center>
 
             </p>
