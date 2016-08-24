@@ -14,6 +14,7 @@
                             We supply to corporates, agencies, party shops and party planners, car dealerships etc.  AND the general public!! <br/>
                             <br/>
                             The company was established in 1987 and has based its success on the personal involvement of its owners to ensure all aspects of its business are carried out professionally and of the highest standard.<br/>  
+                            <br/>  
                             Our balloons are helium quality and 100% biodegradable. <br/>
                             <br/>
                             Our experienced d&#233;cor teams are available at anytime for any job required within any deadline.  We have partners nationwide who are experienced and pay attention to detail to ensure excellent service and customer satisfaction on all decorating work.  <br/>
@@ -21,7 +22,7 @@
                             Give us a call now to transform your launch, promotion, marketing campaign, event or function with balloons!! <br/>
                             <br/>
                             <i>
-                                <em>Important note</em>: helium balloons only last 10-12 hours.  Please bear this in mind when planning your function.  Talk to us about options to make balloons last longer
+                                <em>Important note</em>: helium balloons only last 10-12 hours.  Please bear this in mind when planning your function.  Talk to us about options to make balloons last longer.
                             </i>
                             <br/>
                         </p>

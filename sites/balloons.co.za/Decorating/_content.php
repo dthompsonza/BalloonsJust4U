@@ -45,6 +45,34 @@
                         </tr>   
                         <tr>
                             <td class="text-right">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/arch_aisle.jpg" alt="Aisle Arch" width="300" height="225" />
+                                <p class="wp-caption-text">Aisle Arch</p>
+                            </td>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/arch_double.jpg" alt="Double/Single Arch" width="300" height="225" />
+                                <p class="wp-caption-text">Double &amp; Single Arches</p>
+                            </td>
+                            <td class="text-left">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/g2.jpg" alt="Peacock Fan" width="300" height="225" />
+                                <p class="wp-caption-text">Peacock Fan</p>
+                            </td>
+                        </tr>   
+                        <tr>
+                            <td class="text-right">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/draping_1.jpg" alt="Balloon Draping 1" width="300" height="225" />
+                                <p class="wp-caption-text">Balloon Draping 1</p>
+                            </td>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/draping_2.jpg" alt="Balloon Draping 2" width="300" height="225" />
+                                <p class="wp-caption-text">Balloon Draping 2</p>
+                            </td>
+                            <td class="text-left">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/columns_horizontal.jpg" alt="Horizontal Columns" width="300" height="225" />
+                                <p class="wp-caption-text">Horizontal Columns</p>
+                            </td>
+                        </tr>   
+                        <tr>
+                            <td class="text-right">
                                 <img class="img-responsive flcenter" src="/Images/Decorating/c1.jpg" alt="Columns" width="300" height="225" />
                                 <p class="wp-caption-text">Columns</p>
                             </td>
@@ -58,20 +86,38 @@
                             </td>
                         </tr>   
                         <tr>
-                            <td class="text-right">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/d1.jpg" alt="Table Arrangement" width="300" height="225" />
-                                <p class="wp-caption-text">Table Décor</p>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/number_80.jpg" alt="Number '80'" width="300" height="225" />
+                                <p class="wp-caption-text">Balloon Numbers</p>
                             </td>
                             <td class="text-center">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/e1.jpg" alt="Table Décor" width="300" height="225" />
-                                <p class="wp-caption-text">Table cluster</p>
+                                <img class="img-responsive flcenter" src="/Images/Decorating/heart_shape.jpg" alt="Heart Shape" width="300" height="225" />
+                                <p class="wp-caption-text">Heart Shape</p>
                             </td>
                             <td class="text-left">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/d3.jpg" alt="Table Décor" width="300" height="225" />
-                                <p class="wp-caption-text">Table cluster</p>
+                                <img class="img-responsive flcenter" src="/Images/Decorating/lollipops_1.jpg" alt="Lollipops" width="300" height="225" />
+                                <p class="wp-caption-text">Lollipops</p>
                             </td>
                         </tr>   
                         <tr>
+                            <td class="text-left">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/tree_1.jpg" alt="Balloon Tree" width="300" height="225" />
+                                <p class="wp-caption-text">Balloon Tree</p>
+                            </td>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/funky_trees.jpg" alt="Funky Trees" width="300" height="225" />
+                                <p class="wp-caption-text">Funky Trees</p>
+                            </td>
+                            <td class="text-right">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/f3.jpg" alt="Ceiling Balloons" width="300" height="225" />
+                                <p class="wp-caption-text">Ceiling Balloons</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">
+                                <img class="img-responsive flcenter" src="/Images/Decorating/g1.jpg" alt="Dangling Balloons" width="300" height="225" />
+                                <p class="wp-caption-text">Dangling Balloons</p>
+                            </td>
                             <td class="text-right">
                                 <img class="img-responsive flcenter" src="/Images/Decorating/e2.jpg" alt="Giant Balloons" width="300" height="225" />
                                 <p class="wp-caption-text">Giant Balloons</p>
@@ -80,23 +126,19 @@
                                 <img class="img-responsive flcenter" src="/Images/Decorating/e3.jpg" alt="Giant Balloons" width="300" height="225" />
                                 <p class="wp-caption-text">Giant Balloons</p>
                             </td>
-                            <td class="text-center">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/funky_trees.jpg" alt="Funky Trees" width="300" height="225" />
-                                <p class="wp-caption-text">Funky Trees</p>
-                            </td>
                         </tr>   
                         <tr>
                             <td class="text-right">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/f3.jpg" alt="Ceiling Balloons" width="300" height="225" />
-                                <p class="wp-caption-text">Ceiling Balloons</p>
+                                <img class="img-responsive flcenter" src="/Images/Decorating/d1.jpg" alt="Table Arrangement" width="300" height="225" />
+                                <p class="wp-caption-text">Table Décor</p>
                             </td>
                             <td class="text-center">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/g1.jpg" alt="Dangling Balloons" width="300" height="225" />
-                                <p class="wp-caption-text">Dangling Balloons</p>
+                                <img class="img-responsive flcenter" src="/Images/Decorating/e1.jpg" alt="Table Décor" width="300" height="225" />
+                                <p class="wp-caption-text">Table cluster 1</p>
                             </td>
                             <td class="text-left">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/g2.jpg" alt="Peacock Fan" width="300" height="225" />
-                                <p class="wp-caption-text">Peacock Fan</p>
+                                <img class="img-responsive flcenter" src="/Images/Decorating/d3.jpg" alt="Table Décor" width="300" height="225" />
+                                <p class="wp-caption-text">Table cluster 2</p>
                             </td>
                         </tr>   
                         <tr>
@@ -127,49 +169,8 @@
                                 <p class="wp-caption-text">Pool Balloons</p>
                             </td>
                         </tr>   
-
-                        <tr>
-                            <td class="text-right">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/arch_aisle.jpg" alt="Arch Aisle" width="300" height="225" />
-                                <p class="wp-caption-text">Arch Aisle</p>
-                            </td>
-                            <td class="text-center">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/arch_double.jpg" alt="Double/Single Arch" width="300" height="225" />
-                                <p class="wp-caption-text">Double & Single Arches</p>
-                            </td>
-                            <td class="text-left">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/columns_horizontal.jpg" alt="Horizontal Columns" width="300" height="225" />
-                                <p class="wp-caption-text">Horizontal Columns</p>
-                            </td>
-                        </tr>   
-                        <tr>
-                            <td class="text-right">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/draping_1.jpg" alt="Balloon Draping 1" width="300" height="225" />
-                                <p class="wp-caption-text">Balloon Draping 1</p>
-                            </td>
-                            <td class="text-center">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/draping_2.jpg" alt="Balloon Draping 2" width="300" height="225" />
-                                <p class="wp-caption-text">Balloon Draping 2</p>
-                            </td>
-                            <td class="text-left">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/tree_1.jpg" alt="Balloon Tree" width="300" height="225" />
-                                <p class="wp-caption-text">Balloon Tree</p>
-                            </td>
-                        </tr>   
-                        <tr>
-                            <td class="text-center">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/number_80.jpg" alt="Number '80'" width="300" height="225" />
-                                <p class="wp-caption-text">Number '80'</p>
-                            </td>
-                            <td class="text-center">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/heart_shape.jpg" alt="Heart Shape" width="300" height="225" />
-                                <p class="wp-caption-text">Heart Shape</p>
-                            </td>
-                            <td class="text-left">
-                                <img class="img-responsive flcenter" src="/Images/Decorating/lollipops_1.jpg" alt="Lollipops" width="300" height="225" />
-                                <p class="wp-caption-text">Lollipops</p>
-                            </td>
-                        </tr>   
+                        
+                        
                         
 
                     </table>

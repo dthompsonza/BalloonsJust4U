@@ -24,7 +24,7 @@
                         </table>
 
                         <p>&nbsp;</p>
-                        <p><strong>Metallic</strong></p>
+                        <p><strong>Deco Colours</strong></p>
                         <table cellpadding="0" cellspacing="0" border="0" class="whitegroup">
                             <tr>
                                 <td><img class="alignnone img-responsive" src="/Images/Plain/Deco_01.jpg" /></td>
@@ -36,7 +36,7 @@
                         </table>
 
                         <p>&nbsp;</p>
-                        <p><strong>Deco Range</strong></p>
+                        <p><strong>Metallic Colours</strong></p>
                         <table cellpadding="0" cellspacing="0" border="0" class="whitegroup">
                             <tr>
                                 <td><img class="alignnone img-responsive" src="/Images/Plain/Met_01.jpg" /></td>

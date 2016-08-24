@@ -106,7 +106,7 @@
 
                 <p>&nbsp;</p>
 
-                <p><b>Foil Numbers and Letters</b></p>
+                <p><strong>Foil Numbers and Letters</strong></p>
                 <p>
                     We stock foil numbers in gold and silver, and letters in silver only.  
                     Subject to availability. 
