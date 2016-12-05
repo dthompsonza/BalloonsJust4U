@@ -106,9 +106,9 @@
 
                 <p>&nbsp;</p>
 
-                <p><strong>Foil Numbers and Letters</strong></p>
+                <p><strong>Foil Letters</strong></p>
                 <p>
-                    We stock foil numbers in gold and silver, and letters in silver only.  
+                    We stock foil letters in gold and silver.  
                     Subject to availability. 
                 </p>
 
@@ -118,14 +118,14 @@
                         <tr>
                             <td>
                                 <center>
-                                    <img src="/Images/Novelty/foil_num.jpg" class="img-responsive"/>
-                                    <p class="wp-caption-text">Gold & Silver Numbers</p>
+                                    <img src="/Images/Novelty/gold.png" class="img-responsive"/>
+                                    <p class="wp-caption-text">Gold Letters</p>
                                 </center>
                             </td>
                             <td>
                                 <center>
-                                    <img src="/Images/Novelty/foil_let.jpg" class="img-responsive"/>
-                                    <p class="wp-caption-text">Silver Letters Only</p>
+                                    <img src="/Images/Novelty/silver.png" class="img-responsive"/>
+                                    <p class="wp-caption-text">Silver Letters</p>
                                 </center>
                             </td>
                         </tr>

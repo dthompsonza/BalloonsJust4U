@@ -7,7 +7,7 @@
                     <p style="text-align: left;">Printed balloons can be used for a range of applications from customized parties to large scale corporate events and marketing campaigns.</p>
                     <p style="text-align: left;">Our balloons are printed using specialized ink which ensures dense coverage and sharp, bright colours. </p>
                     <p style="text-align: left;">Printing can be done in one to four colours on the balloon and from one to four sides of the balloon.  It should be noted however that complex logos are difficult to reproduce on balloons and multi-colour prints can sometimes overlap.  The size of printing on a balloon is also limited. </p>
-                    <p style="text-align: left;">The minimum order for customised one colour printed balloons is 50.  <br/>
+                    <p style="text-align: left;">The minimum order for customised one colour printed balloons is 100.  <br/>
                     Please contact us to discuss your requirements and pricing.  </p>
                     <p>Printing on larger sized balloons can be done in one colour on 1-2 sides of the balloon, or in an all-round scattered print.  </p>
                     <p>&nbsp;</p>
