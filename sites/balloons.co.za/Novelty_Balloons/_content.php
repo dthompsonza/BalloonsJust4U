@@ -128,6 +128,12 @@
                                     <p class="wp-caption-text">Silver Letters</p>
                                 </center>
                             </td>
+                            <td>
+                                <center>
+                                    <img src="/Images/Novelty/foil_num.jpg" class="img-responsive"/>
+                                    <p class="wp-caption-text">Gold & Silver Numbers</p>
+                                </center>
+                            </td>
                         </tr>
                     </table>
 
