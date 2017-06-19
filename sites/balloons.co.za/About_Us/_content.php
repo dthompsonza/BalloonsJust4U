@@ -19,8 +19,6 @@
 					<li>Foil Balloons</li>
 					<li>Stress Balls</li>
 					<li>Shakers</li>
-					<li>Cold Air Inflatables</li>
-					<li>Advertising Blimps</li>
 				</ul>
 				<p>&nbsp;</p>
 				<p>

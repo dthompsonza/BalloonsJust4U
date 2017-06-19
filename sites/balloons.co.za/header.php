@@ -107,8 +107,6 @@
                                     <a title="Decorating" href="/Decorating">Decorating</a></li>
                                 <li class="menu-item menu-item-type-custom menu-item-object-custom  <?php echo ($pageTitle=='Accessories') ? 'active' : '' ; //current-menu-item ?>">
                                     <a title="Accessories" href="/Accessories">Accessories</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom  <?php echo ($pageTitle=='Blimps & Inflatables') ? 'active' : '' ;?>">
-                                    <a title="Blimps &amp; Inflatables" href="/Blimps_&_Inflatables">Blimps &#038; Inflatables</a></li>
                                 <li class="menu-item menu-item-type-custom menu-item-object-custom  <?php echo ($pageTitle=='Stressballs & Shakers') ? 'active' : '' ;?>">
                                     <a title="Stressballs &amp; Shakers" href="/Stressballs_&_Shakers">Stressballs &#038; Shakers</a></li>
                             </ul>

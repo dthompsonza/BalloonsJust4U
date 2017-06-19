@@ -106,9 +106,9 @@
 
                 <p>&nbsp;</p>
 
-                <p><strong>Foil Letters</strong></p>
+                <p><strong>Foil Letters &amp; Numbers</strong></p>
                 <p>
-                    We stock foil letters in gold and silver.  
+                    We stock foil letters in gold, silver, pink &amp; blue. 
                     Subject to availability. 
                 </p>
 

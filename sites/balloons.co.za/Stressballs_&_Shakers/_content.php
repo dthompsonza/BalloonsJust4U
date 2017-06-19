@@ -16,7 +16,7 @@
                     <br style="clear: left;" />
                     <p>&nbsp;</p>
                     <p>
-                        <strong>Cold Air Inflatables</strong>
+                        <strong>Shakers</strong>
                     </p>
                     <p>
                         <img class="alignleft size-medium" src="/Images/Stressballs/shaker.jpg?a=1"/>

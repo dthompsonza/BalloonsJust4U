@@ -24,7 +24,7 @@
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
                         <ul class="list-inline">
-                            <li><a href="https://www.facebook.com/balloonsjust4u.co.za/" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/Balloons-Just-4-U-1150666938334711/" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <!--
                             <li><a href="http://www.pinterest.com/balloonsj4u/" class="btn-social btn-outline"><i class="fa fa-fw fa-pinterest"></i></a>
