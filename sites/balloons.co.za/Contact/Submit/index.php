@@ -24,7 +24,7 @@
 	    
 	    // send mail
 	    mail("balloonsj4u@icon.co.za",$subject,$message,$headers);
-	    mail("thompsdc@gmail.com",$subject,$message,$headers);
+	    //mail("thompsdc@gmail.com",$subject,$message,$headers);
 		
 	    ?>
 			
