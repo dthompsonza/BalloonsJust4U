@@ -24,7 +24,7 @@
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
                         <ul class="list-inline">
-                            <li><a href="https://www.facebook.com/Balloons-Just-4-U-1150666938334711/" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/Balloons-Just-4-U-1150666938334711/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <!--
                             <li><a href="http://www.pinterest.com/balloonsj4u/" class="btn-social btn-outline"><i class="fa fa-fw fa-pinterest"></i></a>
@@ -39,7 +39,7 @@
                         <h3>Contact</h3>
                         <p>
                             <a href="mailto:balloonsj4u@icon.co.za" class="white-text">balloonsj4u@icon.co.za</a> <br/>
-                            031 573 1126 / 079 390 3838 <br/>
+                            031 573 1126 / 082 903 1033 <br/>
                             Mon – Fri 8am to 5pm <br/>
                             Sat 8am to 2pm <br/>
                             Sun 8am to 10am (by appointment only) <br/>
