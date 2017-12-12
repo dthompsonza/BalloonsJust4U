@@ -14,12 +14,11 @@
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
                         <p style="white-space:nowrap;">
-                            'Villa Coco'<br/>
-                            High Ridge Rd (opp 199 High Ridge Rd)
-                            <br/>Durban North
-                            <br/>4051
-                            <br/>
-                            </p>
+                           'Villa Coco' on High Ridge Road<br/>
+                           (diagonally opposite)<br/>
+                           Durban North<br/>
+                           4051<br/>
+                        </p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
