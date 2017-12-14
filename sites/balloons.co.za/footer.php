@@ -15,7 +15,7 @@
                         <h3>Location</h3>
                         <p style="white-space:nowrap;">
                            'Villa Coco' on High Ridge Road<br/>
-                           (diagonally opposite)<br/>
+                           (diagonally opposite Underwood Rd)<br/>
                            Durban North<br/>
                            4051<br/>
                         </p>
