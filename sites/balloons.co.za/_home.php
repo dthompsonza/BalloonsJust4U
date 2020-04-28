@@ -1,5 +1,27 @@
     <section id="portfolio">
         <div class="container">
+
+            <div class="row">
+
+                            
+                <div class="jumbotron">
+                    <h2>Specials</h3>
+                    <p class="lead">We'll be doing contactless collections soon with deliveries to follow, check out some specials below....</p>
+                    <hr>
+                    <p>The following specials are available immediately and valid until 30 April 2020 (excluding VAT)...</p>
+                    <ul>
+                        <li>Pack of 70 plain balloons for R99</li>
+                        <li>Pack of 140 plain balloons with a handpump for R269</li>
+                        <li>Bunch of 35 plain balloons (inflated) for R399</li>
+                        <li>Cluster of 7 plain balloons (inflated) on weight for R99</li>
+                    </ul>
+                    <hr>
+                    <p class="lead">
+                        <a class="btn btn-primary btn-md" href="#" role="button" disabled="disabled">View specials</a>
+                    </p>
+                </div>
+            </div>
+
             <div class="row">
                 <div class="col-lg-12 text-center">
 
