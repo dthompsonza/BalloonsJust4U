@@ -5,6 +5,22 @@
     <p><br/></p>
 
 	<footer class="text-center">
+
+        <div class="footer-row-green" >
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <small style="font-size: 10px; font-style: italic;">
+                            All balloons are manufactured from natural latex harvested directly from rubber 
+                            trees. Balloons are therefore <u>100% biodegradable</u> and degrade at roughly the same rate 
+                            as an oak leaf. All our balloons are tested regularly and conform to international 
+                            standards with regards to nitrosamine levels.
+                        </small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="footer-above" >
             <div class="container">
                 <div>

@@ -360,6 +360,11 @@ footer .footer-below {
     background-color: #9D448C;
 }
 
+footer .footer-row-green {
+    padding: 10px 0;
+    background-color: #53B850;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
