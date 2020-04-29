@@ -25,6 +25,8 @@
                         <ul class="list-inline">
                             <li><a href="https://www.facebook.com/Balloons-Just-4-U-1150666938334711/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
+                            <li><a href="https://instagram.com/balloonsj4u" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                            </li>
                             <!--
                             <li><a href="http://www.pinterest.com/balloonsj4u/" class="btn-social btn-outline"><i class="fa fa-fw fa-pinterest"></i></a>
                             </li>
