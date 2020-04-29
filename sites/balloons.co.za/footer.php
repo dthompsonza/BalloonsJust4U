@@ -98,6 +98,7 @@
     <script src="/_inc/js/classie.js"></script>
     <script src="/_inc/js/cbpAnimatedHeader.js"></script>
     <script src="/_inc/js/freelancer.js"></script>
+    <script async data-id="42699" src="https://cdn.widgetwhats.com/script.min.js"></script>
     
     
 </body>
