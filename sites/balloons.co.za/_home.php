@@ -5,11 +5,11 @@
 
                             
                 <div class="jumbotron">
-                    <h2>Specials</h3>
+                    <h2>COVID-19 Specials</h3>
                     <br/>
                     <h4>We'll be doing contactless collections with deliveries to follow, check out some specials below....</h4>
                     <hr/>
-                    <p>The following specials are available immediately and valid until 30 June 2020 (excluding VAT):</p>
+                    <p>The following specials* will be available as from 4th May subject to Government operating guidelines:</p>
                     <ul>
                         <li>Pack of 70 plain balloons (deflated) for R99</li>
                         <li>Pack of 140 plain balloons (deflated) with a handpump for R269</li>
@@ -22,7 +22,8 @@
                         <a class="btn btn-primary btn-md" href="#" role="button" disabled="disabled">View specials</a>
                     </p>
                     -->
-                    <p><i>* All orders are for collection unless delivery is arrange. Delivery charged according to destination.</i></p>
+                    <p><i>* All orders are for collection unless delivery is arrange under special circumstances. Delivery charged according to destination.</i></p>
+                    <p><i>* All prices ex VAT</i></p>
                 </div>
             </div>
 

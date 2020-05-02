@@ -10,12 +10,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <small style="font-size: 10px; font-style: italic;">
-                            All balloons are manufactured from natural latex harvested directly from rubber 
-                            trees. Balloons are therefore <u>100% biodegradable</u> and degrade at roughly the same rate 
-                            as an oak leaf. All our balloons are tested regularly and conform to international 
-                            standards with regards to nitrosamine levels.
-                        </small>
+                        
+                        <table>
+                            <tr>
+                                <td><img src="/Images/Misc/bio.png"/></td>
+                                <td width="100%">
+                                    <span style="font-style: italic;">
+                                        <p>All balloons are manufactured from natural latex harvested directly from rubber trees.</p>
+                                        <p>Balloons are therefore <u>100% biodegradable</u> and degrade at roughly the same rate as an oak leaf.</p> 
+                                        <p>All our balloons are tested regularly and conform to international standards with regards to nitrosamine levels.</p>
+                                        
+                                    </span>
+                                </td>
+                                <td><img src="/Images/Misc/bio.png"/></td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
             </div>
@@ -56,10 +65,10 @@
                         <h3>Contact</h3>
                         <p>
                             <a href="mailto:balloonsj4u@icon.co.za" class="white-text">balloonsj4u@icon.co.za</a> <br/>
-                            031 573 1126 / 072 048 8008 <br/>
+                            031 573 1126 / 072 048 8008 <a class="whatsapp" href="https://wa.me/2772048800" target="_blank"><img src="/Images/Icons/whatsapp-icon-logo.png" style="width: 30px; position: relative;"/></a><br/>
                             Mon – Fri 8am to 5pm <br/>
                             Sat 8am to 2pm <br/>
-                            Sun 8am to 10am (by appointment only) <br/>
+                            Sun 8am to 10am (by appointment only) <br/> <!-- https://wa.me/27720488008 -->
                         </p>
                     </div>
                 </div>

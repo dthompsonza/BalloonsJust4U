@@ -1,76 +1,76 @@
 xnavbar {
-	background-color: #FFF;
+  background-color: #fff;
 }
 
 .navbar {
-	border-bottom: 15px #D1226D solid !important;
-	margin-bottom: 0px;
-	padding-bottom: 00px;
+  border-bottom: 15px #d1226d solid !important;
+  margin-bottom: 0px;
+  padding-bottom: 00px;
 }
 
 body {
-	background-color: #F0F9FF; /*;*/
-	background-image: url('/_inc/img/body.jpg');
-	background-repeat: no-repeat;
-	
-    background-size: cover;
-    background-position: top center;
-    margin-top: 0px;
-    padding-top: 0px;
+  background-color: #f0f9ff;
+  /*;*/
+  background-image: url("/_inc/img/body.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  margin-top: 0px;
+  padding-top: 0px;
 }
 
-@media (min-width: 768px)  {  /* desktops */
-
-	.navbar {
-		min-height: 220px;
-	}
-
-	.ballooncontent {
-		xpadding-top: 140px;
-	}
+@media (min-width: 768px) {
+  /* desktops */
+  .navbar {
+    min-height: 220px;
+  }
+  .ballooncontent {
+    xpadding-top: 140px;
+  }
 }
 
 .ballooncontent {
-	margin-top: -11px !important;
+  margin-top: -11px !important;
 }
 
-
-@media (max-width: 767px)  { /* mobile */
-
-	.navbar-brand {
-		padding-top: 0px;
-	}
+@media (max-width: 767px) {
+  /* mobile */
+  .navbar-brand {
+    padding-top: 0px;
+  }
 }
 
-html, body, div, p {
-	font-family:'ITC Avant Garde ', 'Avant Garde ', Verdana, Geneva, Arial, Helvetica, sans-serif !important;
+html,
+body,
+div,
+p {
+  font-family: "ITC Avant Garde ", "Avant Garde ", Verdana, Geneva, Arial,
+    Helvetica, sans-serif !important;
 }
 
 nav {
-	background-color: #fff !important;
+  background-color: #fff !important;
 }
 
-.navbar .nav > li > a { 
-	color: #46338D !important;
+.navbar .nav > li > a {
+  color: #46338d !important;
 }
-
 
 .alignleft {
-   display:block !important;
-   float:left !important;
-   margin:0  15px 15px 0 !important;
+  display: block !important;
+  float: left !important;
+  margin: 0 15px 15px 0 !important;
 }
 
 .alignright {
-   display:block !important;
-   float:right !important;
-   margin:0  15px 15px 0 !important;
+  display: block !important;
+  float: right !important;
+  margin: 0 15px 15px 0 !important;
 }
 
-
 .panel {
-	padding: 20px;
-	background-color: #F7EAF2;
+  padding: 20px;
+  background-color: #f7eaf2;
 }
 
 /*
@@ -81,73 +81,94 @@ html, body, div {
 */
 
 p {
-	font-size: .90em !important;
+  font-size: 0.9em !important;
 }
 
 .panel {
-	padding-top: 10px;
+  padding-top: 10px;
 }
 
-.centercontent
-{
-	margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+.centercontent {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 .wp-caption-text {
-	text-align: center;
-	font-size: .75em !important;
-
+  text-align: center;
+  font-size: 0.75em !important;
 }
 
 nav {
-	margin-bottom: -50px !important;
+  margin-bottom: -50px !important;
 }
 
 .whitegroup {
-	background-color: #fff !important;
-	padding: 15px;	
-	border: 2px solid;
-	border-color: #8E6A96;
-	display: inline-block;
-	text-align: center;
+  background-color: #fff !important;
+  padding: 15px;
+  border: 2px solid;
+  border-color: #8e6a96;
+  display: inline-block;
+  text-align: center;
 }
 
 .clearleft {
-	clear: left;
-	clear: right;
-	height: 20px;
+  clear: left;
+  clear: right;
+  height: 20px;
 }
 
 .specialtag {
-   float: left;
-   position: relative;
-   left: 0px;
-   top: 0px;
-   z-index: 1000;
-   background-color: #92AD40;
-   padding: 5px;
-   color: #FFFFFF;
-   font-weight: bold;
+  float: left;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  z-index: 1000;
+  background-color: #92ad40;
+  padding: 5px;
+  color: #ffffff;
+  font-weight: bold;
 }
 
 .specialsticker {
-	xcontent: float !important; 
-	margin-top: -25px !important;
-	margin-left: -100px !important; 
-	margin-bottom: -100px !important; 
-	text-align: left !important; 
-	float: left !important; 
-	z-index: 300000 !important;
+  xcontent: float !important;
+  margin-top: -25px !important;
+  margin-left: -100px !important;
+  margin-bottom: -100px !important;
+  text-align: left !important;
+  float: left !important;
+  z-index: 300000 !important;
 }
 
 strong {
-	font-size: 1.5em !important;
+  font-size: 1.5em !important;
 }
 
 strong.sub {
-	font-size: 120% !important;
-	font-weight: 200 !important;
+  font-size: 120% !important;
+  font-weight: 200 !important;
 }
 
+.whatsapp {
+  display: none;
+}
+
+/*
+
+@media (min-width: 768px) {
+  .whatsapp {
+    display: inline;
+  }
+}
+@media (min-width: 992px) {
+  .whatsapp {
+    display: none;
+  }
+}
+@media (min-width: 1200px) {
+  .whatsapp {
+    display: none;
+  }
+}
+
+*/

@@ -129,9 +129,7 @@
         <!-- /.container-fluid -->
     </nav>
 
-
-    
-
     <div class="ballooncontent container">
+        
 
 <!-- end of header.php -->
