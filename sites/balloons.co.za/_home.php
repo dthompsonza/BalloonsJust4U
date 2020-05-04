@@ -5,7 +5,7 @@
 
                             
                 <div class="jumbotron">
-                    <h2>COVID-19 Specials</h3>
+                    <h2>COVID-19 Specials</h2>
                     <br/>
                     <h4>We'll be doing contactless collections with deliveries to follow, check out some specials below....</h4>
                     <hr/>
@@ -22,9 +22,9 @@
                         <a class="btn btn-primary btn-md" href="#" role="button" disabled="disabled">View specials</a>
                     </p>
                     -->
-                    <p><i>* All orders are for collection unless delivery is arrange under special circumstances. Delivery charged according to destination.</i></p>
-                    <p><i>* All prices ex VAT</i></p>
-                    <p><i>* EFT or Zapper payments will only be accepted. NO CASH OR CREDIT CARDS</i></p>
+                    <p><i>* All orders are for collection unless delivery is arranged under special circumstances. Delivery charged according to destination.</i></p>
+                    <p><i>* All prices ex VAT.</i></p>
+                    <p><i>* EFT or Zapper payments will only be accepted. NO CASH OR CREDIT CARDS.</i></p>
                 </div>
             </div>
 
