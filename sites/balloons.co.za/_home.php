@@ -9,7 +9,7 @@
                     <br/>
                     <h4>We'll be doing contactless collections with deliveries to follow, check out some specials below....</h4>
                     <hr/>
-                    <p>The following specials* will be available as from 4th May subject to Government operating guidelines:</p>
+                    <p>The following specials* will be available as soon as we are able to operate subject to Government:</p>
                     <ul>
                         <li>Pack of 70 plain balloons (deflated) for R99</li>
                         <li>Pack of 140 plain balloons (deflated) with a handpump for R269</li>
