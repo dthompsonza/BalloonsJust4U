@@ -24,7 +24,7 @@
                     -->
                     <p><i>* All orders are for collection unless delivery is arrange under special circumstances. Delivery charged according to destination.</i></p>
                     <p><i>* All prices ex VAT</i></p>
-                    <p><i>*EFT or Zapper payments will only be accepted. NO CASH OR CREDIT CARDS</i></p?
+                    <p><i>* EFT or Zapper payments will only be accepted. NO CASH OR CREDIT CARDS</i></p>
                 </div>
             </div>
 
