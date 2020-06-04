@@ -27,6 +27,10 @@ body {
   .ballooncontent {
     xpadding-top: 140px;
   }
+  .WeAreOpen {
+    xdisplay: block;
+    width: 17%;
+  }
 }
 
 .ballooncontent {
@@ -37,6 +41,10 @@ body {
   /* mobile */
   .navbar-brand {
     padding-top: 0px;
+  }
+  .WeAreOpen {
+    xdisplay: none;
+    width: 25%;
   }
 }
 

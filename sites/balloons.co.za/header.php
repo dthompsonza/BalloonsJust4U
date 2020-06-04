@@ -129,6 +129,10 @@
         <!-- /.container-fluid -->
     </nav>
 
+    <div>
+        <img src="/Images/Misc/wereopen.png" width="17%" style="position: absolute; top: 60px; left:60%;" class="WeAreOpen" />
+    </div>
+
     <div class="ballooncontent container">
         
 
