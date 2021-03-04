@@ -65,9 +65,9 @@
                         <h3>Contact</h3>
                         <p>
                             <a href="mailto:balloonsj4u@icon.co.za" class="white-text">balloonsj4u@icon.co.za</a> <br/>
-                            031 573 1126 / 072 048 8008 <a class="whatsapp" href="https://wa.me/2772048800" target="_blank"><img src="/Images/Icons/whatsapp-icon-logo.png" style="width: 30px; position: relative;"/></a><br/>
-                            Mon – Fri 8am to 5pm <br/>
-                            Sat 8am to 2pm <br/>
+                            031 573 1126 <a class="whatsapp" href="https://wa.me/2772048800" target="_blank"><img src="/Images/Icons/whatsapp-icon-logo.png" style="width: 30px; position: relative;"/></a><br/>
+                            Mon – Fri 8am to 4pm <br/>
+                            Sat 8am to 1pm <br/>
                             Sun 8am to 10am (by appointment only) <br/> <!-- https://wa.me/27720488008 -->
                         </p>
                     </div>
