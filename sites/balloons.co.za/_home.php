@@ -1,33 +1,6 @@
     <section id="portfolio">
         <div class="container">
-
-            <div class="row">
-
-                            
-                <div class="jumbotron">
-                    <h2>Reopening Specials</h2>
-                    <br/>
-                    <h4>We'll be doing contactless collections with deliveries to follow, check out some specials below....</h4>
-                    <hr/>
-                    <p>The following specials* will be available from 1 June 2020:</p>
-                    <ul>
-                        <li>Pack of 70 plain balloons (deflated) for R99</li>
-                        <li>Pack of 140 plain balloons (deflated) with a handpump for R269</li>
-                        <li>Bunch of 35 plain balloons (inflated with helium) for R399</li>
-                        <li>Cluster of 7 plain balloons (inflated with helium) on weight for R99</li>
-                    </ul>
-                    <hr/>
-                    <!--
-                    <p class="lead">
-                        <a class="btn btn-primary btn-md" href="#" role="button" disabled="disabled">View specials</a>
-                    </p>
-                    -->
-                    <p><i>* All orders are for collection unless delivery is arranged under special circumstances. Delivery charged according to destination.</i></p>
-                    <p><i>* All prices ex VAT.</i></p>
-                    <p><i>* EFT or Zapper payments will only be accepted. NO CASH OR CREDIT CARDS.</i></p>
-                </div>
-            </div>
-
+            
             <div class="row">
                 <div class="col-lg-12 text-center">
 
